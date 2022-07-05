@@ -1,0 +1,23 @@
+<schema xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="urn:magento:framework:Setup/Declaration/Schema/etc/schema.xsd">
+    <table name="quote_address" resource="default" engine="innodb">
+        <column xsi:type="int" name="custom_vat" nullable="false"
+                comment="Custom VAT"/>
+    </table>
+    <table name="sales_order" resource="default" engine="innodb">
+        <column xsi:type="int" name="custom_vat" nullable="false"
+                comment="Custom VAT"/>
+    </table>
+    <!--Database    -->
+    <!--    <table name="internship_geek2" onCreate="migrateDataFromAnotherTable(declarative_table)">-->
+    <!--        <column xsi:type="int" name="id" unsigned="true" nullable="false" comment="Id" identity="true"/>-->
+    <!--        <column xsi:type="varchar" name="name" nullable="false" length="255" comment="name"/>-->
+    <!--        <column xsi:type="timestamp" name="birthday" nullable="false" comment="date of birth"/>-->
+    <!--        <column xsi:type="varchar" name="gender" nullable="false" comment="gender"/>-->
+    <!--        <column xsi:type="varchar" name="address" nullable="false" length="255" comment="address"/>-->
+    <!--        <column xsi:type="varchar" name="email" nullable="false" length="255" comment="email"/>-->
+    <!--        <constraint xsi:type="primary" referenceId="PRIMARY">-->
+    <!--            <column name="id"/>-->
+    <!--        </constraint>-->
+    <!--    </table>-->
+</schema>

@@ -1,0 +1,34 @@
+<div class="component-wrapper">
+    <div class="product-form">
+        <p data-bind="text:errorMessage"></p>
+        <input type="text" class="name" id="name" placeholder="Name" data-bind="value: getName">
+        <hr>
+        <input type="text" class="price" id="price" placeholder="Price" data-bind="value: getPrice">
+        <hr>
+        <input type="text" class="description" id="description" placeholder="Description" data-bind="value: getDesc">
+        <hr>
+        <div class="primary">
+            <button type="button" class="action action-login secondary" data-bind="click: addNewProduct">
+                <span data-bind="i18n: 'Submit'"></span>
+            </button>
+        </div>
+    </div>
+    <div class="customer-list">
+        <table>
+            <thead>
+            <tr>
+                <th>Name</th>
+                <th>Price</th>
+                <th>Description</th>
+            </tr>
+            </thead>
+            <tbody data-bind="foreach: Products">
+                <tr>
+                    <td data-bind="text: name"></td>
+                    <td data-bind="text: price"></td>
+                    <td data-bind="text: description"></td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>

@@ -1,0 +1,32 @@
+<div class="product-form">
+    <input type="text" class="name" id="name" placeholder="Name">
+    <div id="name-validate"></div>
+    <hr>
+    <input type="text" class="phone" id="phone" placeholder="Telephone">
+    <div id="phone-validate"></div>
+    <hr>
+    <input type="date" class="dob" id="dob" placeholder="Date Of Birth">
+    <div id="dob-validate"></div>
+    <hr>
+    <input type="text" class="message" id="message" placeholder="Note">
+    <hr>
+    <button id="display-customer">Submit</button>
+</div>
+<div id="modal">
+    <div class="modal-inner-content">
+        <p id="name-display"></p>
+        <p id="phone-display"></p>
+        <p id="dob-display"></p>
+        <p id="message-display"></p>
+    </div>
+</div>
+<script type="text/x-magento-init" >
+    {
+        "*": {
+            "fresher_require": {
+            }
+        }
+    }
+
+
+</script>

@@ -1,0 +1,36 @@
+<page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:View/Layout/etc/page_configuration.xsd">
+    <head>
+        <css src="css/source/footer.css"/>
+    </head>
+    <body>
+        <referenceBlock name="logo">
+            <arguments>
+                <argument name="logo_file" xsi:type="string">images/logo.png</argument>
+                <argument name="logo_width" xsi:type="number">150</argument>
+                <argument name="logo_height" xsi:type="number">150</argument>
+            </arguments>
+        </referenceBlock>
+        <referenceBlock name="footer_links" remove ="true"/>
+        <referenceBlock name="form.subscribe" remove ="true"/>
+        <referenceBlock name="copyright" remove ="true"/>
+        <referenceContainer name="content">
+            <block class="Magento\Cms\Block\Block" name="home_bss" after="-">
+                <arguments>
+                    <argument name="block_id" xsi:type="string">home_bss</argument>
+                </arguments>
+            </block>
+        </referenceContainer>
+        <referenceContainer name="footer">
+            <block class="Magento\Cms\Block\Block" name="block_payment" after="-">
+                <arguments>
+                    <argument name="block_id" xsi:type="string">block_payment</argument>
+                </arguments>
+            </block>
+            <block class="Magento\Cms\Block\Block" name="block_footer" after="-">
+                <arguments>
+                    <argument name="block_id" xsi:type="string">block_footer</argument>
+                </arguments>
+            </block>
+        </referenceContainer>
+    </body>
+</page>

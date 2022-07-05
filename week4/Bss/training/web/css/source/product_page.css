@@ -1,0 +1,45 @@
+.product-info-main{
+    width: 60% !important;
+}
+
+.product.media{
+    width: 40% !important;
+}
+
+.product-info-main .product-info-price{
+    display: flex !important;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    border : 1px 0px 0px 0px solid #c1c1c1;
+}
+
+.product-add-form{
+    width: 50% !important;
+}
+
+.price-box .price-final_price{
+    width: 50% !important;
+}
+
+.product-add-form .box-tocart .fieldset{
+    display: flex !important;
+    float: right;
+    align-items: center;
+}
+
+.product-add-form .box-tocart .fieldset .field.qty{
+    display: flex !important;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.product-add-form .box-tocart .fieldset .field.qty label{
+    margin-right: 15px !important;
+}
+
+.box-tocart .action.tocart{
+    width: 100% !important;
+    background-color: rgb(32, 30, 30);
+    margin-left: 20px;
+}

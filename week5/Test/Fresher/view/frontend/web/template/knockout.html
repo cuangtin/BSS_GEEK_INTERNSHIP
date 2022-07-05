@@ -1,0 +1,40 @@
+<div class="component-wrapper">
+    <div class="product-form">
+        <input type="text" class="id" id="id" placeholder="ID" data-bind="value: getCustomerId">
+        <div data-bind="text: validateId"></div>
+        <hr>
+        <input type="text" class="name" id="name" placeholder="Name" data-bind="value: getCustomerName">
+        <div data-bind="text: validateName"></div>
+        <hr>
+        <input type="text" class="class" id="class" placeholder="Class" data-bind="value: getCustomerClass">
+        <div data-bind="text: validateClass"></div>
+        <hr>
+        <div class="primary">
+            <button class="action action-login secondary" data-bind="click: addNewCustomer">
+                <span data-bind="i18n: 'Add'"></span>
+            </button>
+            <button class="action action-login secondary" data-bind="click: resetTable">
+                <span data-bind="i18n: 'Reset List'"></span>
+            </button>
+        </div>
+    </div>
+    <div class="customer-list">
+        <table>
+            <thead>
+            <tr>
+                <th>Name</th>
+                <th>Class</th>
+            </tr>
+            </thead>
+            <tbody data-bind="foreach: Customers">
+            <tr>
+                <td data-bind="text: name"></td>
+                <td data-bind="text: className"></td>
+                <td><button data-bind="click: $parent.removeData">
+                    <span data-bind="i18n: 'Delete'"></span>
+                </button></td>
+            </tr>
+            </tbody>
+        </table>
+    </div>
+</div>

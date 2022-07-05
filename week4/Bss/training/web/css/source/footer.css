@@ -1,0 +1,26 @@
+.widget.block.block-static-block{
+    display: inherit !important;
+    width : 100%;
+}
+
+.footer.content .block{
+    float: left !important;
+}
+
+.block.newsletter {
+    max-width: 100% !important;
+    margin-top: 20px;
+}
+
+.pagebuilder-column a.policy{
+    color : whitesmoke;
+    font-size: 1rem;
+}
+
+.block.newsletter .action.subscribe{
+    background-color: red !important;
+    border: red ;
+    height: 3.2rem;
+}
+
+

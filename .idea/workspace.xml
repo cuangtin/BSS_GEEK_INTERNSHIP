@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8f31cff2-9a93-4e20-a3ac-53c7496daf8a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise_2.sql" beforeDir="false" afterPath="$PROJECT_DIR$/exercise_2.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1/css/dashboard.css" beforeDir="false" afterPath="$PROJECT_DIR$/week1/css/dashboard.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/week1/css/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1/html/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/week1/html/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1/html/menu/dashboard.html" beforeDir="false" afterPath="$PROJECT_DIR$/week1/html/menu/dashboard.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1/html/menu/logs.html" beforeDir="false" afterPath="$PROJECT_DIR$/week1/html/menu/logs.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1/js/data_dashboard.js" beforeDir="false" afterPath="$PROJECT_DIR$/week1/js/data_dashboard.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1/js/data_logs.js" beforeDir="false" afterPath="$PROJECT_DIR$/week1/js/data_logs.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1/js/logic.js" beforeDir="false" afterPath="$PROJECT_DIR$/week1/js/logic.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1/js/pagination.js" beforeDir="false" afterPath="$PROJECT_DIR$/week1/js/pagination.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1/js/validate.js" beforeDir="false" afterPath="$PROJECT_DIR$/week1/js/validate.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2/controllers/DeviceController.php" beforeDir="false" afterPath="$PROJECT_DIR$/week2/controllers/DeviceController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2/controllers/LogController.php" beforeDir="false" afterPath="$PROJECT_DIR$/week2/controllers/LogController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2/controllers/UserController.php" beforeDir="false" afterPath="$PROJECT_DIR$/week2/controllers/UserController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2/css/css/dashboard.css" beforeDir="false" afterPath="$PROJECT_DIR$/week2/css/css/dashboard.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2/css/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/week2/css/css/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2/css/dashboard.css" beforeDir="false" afterPath="$PROJECT_DIR$/week2/css/dashboard.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/week2/css/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2/helpers/Db.php" beforeDir="false" afterPath="$PROJECT_DIR$/week2/helpers/Db.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/week2/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2/js/logic.js" beforeDir="false" afterPath="$PROJECT_DIR$/week2/js/logic.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2/js/pagination.js" beforeDir="false" afterPath="$PROJECT_DIR$/week2/js/pagination.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2/js/validate.js" beforeDir="false" afterPath="$PROJECT_DIR$/week2/js/validate.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2/models/device.php" beforeDir="false" afterPath="$PROJECT_DIR$/week2/models/device.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2/models/log.php" beforeDir="false" afterPath="$PROJECT_DIR$/week2/models/log.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2/models/user.php" beforeDir="false" afterPath="$PROJECT_DIR$/week2/models/user.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2/views/menu/dashboard.php" beforeDir="false" afterPath="$PROJECT_DIR$/week2/views/menu/dashboard.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2/views/menu/logs.php" beforeDir="false" afterPath="$PROJECT_DIR$/week2/views/menu/logs.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week4/Bss/training/Magento_Catalog/layout/catalog_product_view.xml" beforeDir="false" afterPath="$PROJECT_DIR$/week4/Bss/training/Magento_Catalog/layout/catalog_product_view.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week4/Bss/training/Magento_Theme/layout/default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/week4/Bss/training/Magento_Theme/layout/default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week4/Bss/training/Magento_Theme/templates/html/footer.phtml" beforeDir="false" afterPath="$PROJECT_DIR$/week4/Bss/training/Magento_Theme/templates/html/footer.phtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week4/Bss/training/Magento_Theme/templates/html/header.phtml" beforeDir="false" afterPath="$PROJECT_DIR$/week4/Bss/training/Magento_Theme/templates/html/header.phtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week4/Bss/training/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/week4/Bss/training/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week4/Bss/training/registration.php" beforeDir="false" afterPath="$PROJECT_DIR$/week4/Bss/training/registration.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week4/Bss/training/theme.xml" beforeDir="false" afterPath="$PROJECT_DIR$/week4/Bss/training/theme.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week4/Bss/training/web/css/source/footer.css" beforeDir="false" afterPath="$PROJECT_DIR$/week4/Bss/training/web/css/source/footer.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week4/Bss/training/web/css/source/product_page.css" beforeDir="false" afterPath="$PROJECT_DIR$/week4/Bss/training/web/css/source/product_page.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week4/Bss_HelloWorld/Helloworld/Block/Index.php" beforeDir="false" afterPath="$PROJECT_DIR$/week4/Bss_HelloWorld/Helloworld/Block/Index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week4/Bss_HelloWorld/Helloworld/Controller/Index/Helloworld.php" beforeDir="false" afterPath="$PROJECT_DIR$/week4/Bss_HelloWorld/Helloworld/Controller/Index/Helloworld.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week4/Bss_HelloWorld/Helloworld/etc/frontend/routes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/week4/Bss_HelloWorld/Helloworld/etc/frontend/routes.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week4/Bss_HelloWorld/Helloworld/etc/module.xml" beforeDir="false" afterPath="$PROJECT_DIR$/week4/Bss_HelloWorld/Helloworld/etc/module.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week4/Bss_HelloWorld/Helloworld/registration.php" beforeDir="false" afterPath="$PROJECT_DIR$/week4/Bss_HelloWorld/Helloworld/registration.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week4/Bss_HelloWorld/Helloworld/view/frontend/layout/hello_index_helloworld.xml" beforeDir="false" afterPath="$PROJECT_DIR$/week4/Bss_HelloWorld/Helloworld/view/frontend/layout/hello_index_helloworld.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week4/Bss_HelloWorld/Helloworld/view/frontend/templates/hello.phtml" beforeDir="false" afterPath="$PROJECT_DIR$/week4/Bss_HelloWorld/Helloworld/view/frontend/templates/hello.phtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week4/api/Bss/TestApi/Api/ProductInterface.php" beforeDir="false" afterPath="$PROJECT_DIR$/week4/api/Bss/TestApi/Api/ProductInterface.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week4/api/Bss/TestApi/Model/Product.php" beforeDir="false" afterPath="$PROJECT_DIR$/week4/api/Bss/TestApi/Model/Product.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week4/api/Bss/TestApi/etc/di.xml" beforeDir="false" afterPath="$PROJECT_DIR$/week4/api/Bss/TestApi/etc/di.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week4/api/Bss/TestApi/etc/module.xml" beforeDir="false" afterPath="$PROJECT_DIR$/week4/api/Bss/TestApi/etc/module.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week4/api/Bss/TestApi/etc/webapi.xml" beforeDir="false" afterPath="$PROJECT_DIR$/week4/api/Bss/TestApi/etc/webapi.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week4/api/Bss/TestApi/registration.php" beforeDir="false" afterPath="$PROJECT_DIR$/week4/api/Bss/TestApi/registration.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week5/Bss/Routing/Block/CustomerBlock.php" beforeDir="false" afterPath="$PROJECT_DIR$/week5/Bss/Routing/Block/CustomerBlock.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week5/Bss/Routing/Block/Index.php" beforeDir="false" afterPath="$PROJECT_DIR$/week5/Bss/Routing/Block/Index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week5/Bss/Routing/Controller/HelloWorld/Config.php" beforeDir="false" afterPath="$PROJECT_DIR$/week5/Bss/Routing/Controller/HelloWorld/Config.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week5/Bss/Routing/Controller/HelloWorld/Customer.php" beforeDir="false" afterPath="$PROJECT_DIR$/week5/Bss/Routing/Controller/HelloWorld/Customer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week5/Bss/Routing/Controller/HelloWorld/ForwardHome.php" beforeDir="false" afterPath="$PROJECT_DIR$/week5/Bss/Routing/Controller/HelloWorld/ForwardHome.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week5/Bss/Routing/Controller/HelloWorld/Hello.php" beforeDir="false" afterPath="$PROJECT_DIR$/week5/Bss/Routing/Controller/HelloWorld/Hello.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week5/Bss/Routing/Controller/HelloWorld/Json.php" beforeDir="false" afterPath="$PROJECT_DIR$/week5/Bss/Routing/Controller/HelloWorld/Json.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week5/Bss/Routing/Controller/Index/Index.php" beforeDir="false" afterPath="$PROJECT_DIR$/week5/Bss/Routing/Controller/Index/Index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week5/Bss/Routing/Controller/Index/Requirejs.php" beforeDir="false" afterPath="$PROJECT_DIR$/week5/Bss/Routing/Controller/Index/Requirejs.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week5/Bss/Routing/Controller/Router.php" beforeDir="false" afterPath="$PROJECT_DIR$/week5/Bss/Routing/Controller/Router.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week5/Bss/Routing/Helper/Data.php" beforeDir="false" afterPath="$PROJECT_DIR$/week5/Bss/Routing/Helper/Data.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week5/Bss/Routing/etc/adminhtml/system.xml" beforeDir="false" afterPath="$PROJECT_DIR$/week5/Bss/Routing/etc/adminhtml/system.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week5/Bss/Routing/etc/config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/week5/Bss/Routing/etc/config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week5/Bss/Routing/etc/frontend/di.xml" beforeDir="false" afterPath="$PROJECT_DIR$/week5/Bss/Routing/etc/frontend/di.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week5/Bss/Routing/etc/frontend/routes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/week5/Bss/Routing/etc/frontend/routes.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week5/Bss/Routing/etc/module.xml" beforeDir="false" afterPath="$PROJECT_DIR$/week5/Bss/Routing/etc/module.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week5/Bss/Routing/registration.php" beforeDir="false" afterPath="$PROJECT_DIR$/week5/Bss/Routing/registration.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week5/Bss/Routing/view/frontend/layout/routing_helloworld_config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/week5/Bss/Routing/view/frontend/layout/routing_helloworld_config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week5/Bss/Routing/view/frontend/layout/routing_helloworld_customer.xml" beforeDir="false" afterPath="$PROJECT_DIR$/week5/Bss/Routing/view/frontend/layout/routing_helloworld_customer.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week5/Bss/Routing/view/frontend/layout/routing_helloworld_hello.xml" beforeDir="false" afterPath="$PROJECT_DIR$/week5/Bss/Routing/view/frontend/layout/routing_helloworld_hello.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week5/Bss/Routing/view/frontend/layout/routing_index_index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/week5/Bss/Routing/view/frontend/layout/routing_index_index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week5/Bss/Routing/view/frontend/layout/routing_index_requirejs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/week5/Bss/Routing/view/frontend/layout/routing_index_requirejs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week5/Bss/Routing/view/frontend/requirejs-config.js" beforeDir="false" afterPath="$PROJECT_DIR$/week5/Bss/Routing/view/frontend/requirejs-config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week5/Bss/Routing/view/frontend/templates/config.phtml" beforeDir="false" afterPath="$PROJECT_DIR$/week5/Bss/Routing/view/frontend/templates/config.phtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week5/Bss/Routing/view/frontend/templates/custom.phtml" beforeDir="false" afterPath="$PROJECT_DIR$/week5/Bss/Routing/view/frontend/templates/custom.phtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week5/Bss/Routing/view/frontend/templates/customer.phtml" beforeDir="false" afterPath="$PROJECT_DIR$/week5/Bss/Routing/view/frontend/templates/customer.phtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week5/Bss/Routing/view/frontend/templates/hello.phtml" beforeDir="false" afterPath="$PROJECT_DIR$/week5/Bss/Routing/view/frontend/templates/hello.phtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week5/Bss/Routing/view/frontend/templates/requirejs.phtml" beforeDir="false" afterPath="$PROJECT_DIR$/week5/Bss/Routing/view/frontend/templates/requirejs.phtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week5/Bss/Routing/view/frontend/web/js/example.js" beforeDir="false" afterPath="$PROJECT_DIR$/week5/Bss/Routing/view/frontend/web/js/example.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week5/Test/Fresher/Block/Index.php" beforeDir="false" afterPath="$PROJECT_DIR$/week5/Test/Fresher/Block/Index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week5/Test/Fresher/Controller/Fresher/Kojs.php" beforeDir="false" afterPath="$PROJECT_DIR$/week5/Test/Fresher/Controller/Fresher/Kojs.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week5/Test/Fresher/Controller/Fresher/Requirejs.php" beforeDir="false" afterPath="$PROJECT_DIR$/week5/Test/Fresher/Controller/Fresher/Requirejs.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week5/Test/Fresher/etc/frontend/routes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/week5/Test/Fresher/etc/frontend/routes.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week5/Test/Fresher/etc/module.xml" beforeDir="false" afterPath="$PROJECT_DIR$/week5/Test/Fresher/etc/module.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week5/Test/Fresher/registration.php" beforeDir="false" afterPath="$PROJECT_DIR$/week5/Test/Fresher/registration.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week5/Test/Fresher/view/frontend/layout/bss_fresher_kojs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/week5/Test/Fresher/view/frontend/layout/bss_fresher_kojs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week5/Test/Fresher/view/frontend/layout/bss_fresher_requirejs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/week5/Test/Fresher/view/frontend/layout/bss_fresher_requirejs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week5/Test/Fresher/view/frontend/requirejs-config.js" beforeDir="false" afterPath="$PROJECT_DIR$/week5/Test/Fresher/view/frontend/requirejs-config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week5/Test/Fresher/view/frontend/templates/kojs.phtml" beforeDir="false" afterPath="$PROJECT_DIR$/week5/Test/Fresher/view/frontend/templates/kojs.phtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week5/Test/Fresher/view/frontend/templates/requirejs.phtml" beforeDir="false" afterPath="$PROJECT_DIR$/week5/Test/Fresher/view/frontend/templates/requirejs.phtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week5/Test/Fresher/view/frontend/web/js/component.js" beforeDir="false" afterPath="$PROJECT_DIR$/week5/Test/Fresher/view/frontend/web/js/component.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week5/Test/Fresher/view/frontend/web/js/kojs.js" beforeDir="false" afterPath="$PROJECT_DIR$/week5/Test/Fresher/view/frontend/web/js/kojs.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week5/Test/Fresher/view/frontend/web/template/knockout.html" beforeDir="false" afterPath="$PROJECT_DIR$/week5/Test/Fresher/view/frontend/web/template/knockout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week5/Week5/Routing/Block/Index.php" beforeDir="false" afterPath="$PROJECT_DIR$/week5/Week5/Routing/Block/Index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week5/Week5/Routing/Controller/Index/Ko.php" beforeDir="false" afterPath="$PROJECT_DIR$/week5/Week5/Routing/Controller/Index/Ko.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week5/Week5/Routing/Controller/Index/Requirejs.php" beforeDir="false" afterPath="$PROJECT_DIR$/week5/Week5/Routing/Controller/Index/Requirejs.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week5/Week5/Routing/Controller/Index/Widget.php" beforeDir="false" afterPath="$PROJECT_DIR$/week5/Week5/Routing/Controller/Index/Widget.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week5/Week5/Routing/etc/frontend/routes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/week5/Week5/Routing/etc/frontend/routes.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week5/Week5/Routing/etc/module.xml" beforeDir="false" afterPath="$PROJECT_DIR$/week5/Week5/Routing/etc/module.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week5/Week5/Routing/registration.php" beforeDir="false" afterPath="$PROJECT_DIR$/week5/Week5/Routing/registration.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week5/Week5/Routing/view/frontend/layout/week5_index_ko.xml" beforeDir="false" afterPath="$PROJECT_DIR$/week5/Week5/Routing/view/frontend/layout/week5_index_ko.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week5/Week5/Routing/view/frontend/layout/week5_index_requirejs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/week5/Week5/Routing/view/frontend/layout/week5_index_requirejs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week5/Week5/Routing/view/frontend/layout/week5_index_widget.xml" beforeDir="false" afterPath="$PROJECT_DIR$/week5/Week5/Routing/view/frontend/layout/week5_index_widget.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week5/Week5/Routing/view/frontend/requirejs-config.js" beforeDir="false" afterPath="$PROJECT_DIR$/week5/Week5/Routing/view/frontend/requirejs-config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week5/Week5/Routing/view/frontend/templates/knockout.phtml" beforeDir="false" afterPath="$PROJECT_DIR$/week5/Week5/Routing/view/frontend/templates/knockout.phtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week5/Week5/Routing/view/frontend/templates/requirejs.phtml" beforeDir="false" afterPath="$PROJECT_DIR$/week5/Week5/Routing/view/frontend/templates/requirejs.phtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week5/Week5/Routing/view/frontend/templates/widget.phtml" beforeDir="false" afterPath="$PROJECT_DIR$/week5/Week5/Routing/view/frontend/templates/widget.phtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week5/Week5/Routing/view/frontend/web/js/custom-component.js" beforeDir="false" afterPath="$PROJECT_DIR$/week5/Week5/Routing/view/frontend/web/js/custom-component.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week5/Week5/Routing/view/frontend/web/js/example.js" beforeDir="false" afterPath="$PROJECT_DIR$/week5/Week5/Routing/view/frontend/web/js/example.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week5/Week5/Routing/view/frontend/web/js/widget.js" beforeDir="false" afterPath="$PROJECT_DIR$/week5/Week5/Routing/view/frontend/web/js/widget.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week5/Week5/Routing/view/frontend/web/template/knockout-test.html" beforeDir="false" afterPath="$PROJECT_DIR$/week5/Week5/Routing/view/frontend/web/template/knockout-test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week6/Bss/Schema/Block/Index.php" beforeDir="false" afterPath="$PROJECT_DIR$/week6/Bss/Schema/Block/Index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week6/Bss/Schema/Controller/Adminhtml/Index/Index.php" beforeDir="false" afterPath="$PROJECT_DIR$/week6/Bss/Schema/Controller/Adminhtml/Index/Index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week6/Bss/Schema/Controller/Index/Index.php" beforeDir="false" afterPath="$PROJECT_DIR$/week6/Bss/Schema/Controller/Index/Index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week6/Bss/Schema/Controller/Index/InforCustomer.php" beforeDir="false" afterPath="$PROJECT_DIR$/week6/Bss/Schema/Controller/Index/InforCustomer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week6/Bss/Schema/Controller/Index/Intern.php" beforeDir="false" afterPath="$PROJECT_DIR$/week6/Bss/Schema/Controller/Index/Intern.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week6/Bss/Schema/Helper/Forward.php" beforeDir="false" afterPath="$PROJECT_DIR$/week6/Bss/Schema/Helper/Forward.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week6/Bss/Schema/Model/DataExample.php" beforeDir="false" afterPath="$PROJECT_DIR$/week6/Bss/Schema/Model/DataExample.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week6/Bss/Schema/Model/ResourceModel/DataExample.php" beforeDir="false" afterPath="$PROJECT_DIR$/week6/Bss/Schema/Model/ResourceModel/DataExample.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week6/Bss/Schema/Model/ResourceModel/DataExample/Collection.php" beforeDir="false" afterPath="$PROJECT_DIR$/week6/Bss/Schema/Model/ResourceModel/DataExample/Collection.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week6/Bss/Schema/Model/ResourceModel/Order/Grid/Collection.php" beforeDir="false" afterPath="$PROJECT_DIR$/week6/Bss/Schema/Model/ResourceModel/Order/Grid/Collection.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week6/Bss/Schema/Observer/ChangeInternshipName.php" beforeDir="false" afterPath="$PROJECT_DIR$/week6/Bss/Schema/Observer/ChangeInternshipName.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week6/Bss/Schema/Observer/CustomOrderGrid.php" beforeDir="false" afterPath="$PROJECT_DIR$/week6/Bss/Schema/Observer/CustomOrderGrid.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week6/Bss/Schema/Plugin/AddVatShipForm.php" beforeDir="false" afterPath="$PROJECT_DIR$/week6/Bss/Schema/Plugin/AddVatShipForm.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week6/Bss/Schema/Plugin/ColumnOrderGrid.php" beforeDir="false" afterPath="$PROJECT_DIR$/week6/Bss/Schema/Plugin/ColumnOrderGrid.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week6/Bss/Schema/Plugin/ShowMessage.php" beforeDir="false" afterPath="$PROJECT_DIR$/week6/Bss/Schema/Plugin/ShowMessage.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week6/Bss/Schema/Ui/Component/Listing/Grid/Column/Action.php" beforeDir="false" afterPath="$PROJECT_DIR$/week6/Bss/Schema/Ui/Component/Listing/Grid/Column/Action.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week6/Bss/Schema/etc/adminhtml/menu.xml" beforeDir="false" afterPath="$PROJECT_DIR$/week6/Bss/Schema/etc/adminhtml/menu.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week6/Bss/Schema/etc/adminhtml/routes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/week6/Bss/Schema/etc/adminhtml/routes.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week6/Bss/Schema/etc/adminhtml/system.xml" beforeDir="false" afterPath="$PROJECT_DIR$/week6/Bss/Schema/etc/adminhtml/system.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week6/Bss/Schema/etc/config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/week6/Bss/Schema/etc/config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week6/Bss/Schema/etc/db_schema.xml" beforeDir="false" afterPath="$PROJECT_DIR$/week6/Bss/Schema/etc/db_schema.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week6/Bss/Schema/etc/di.xml" beforeDir="false" afterPath="$PROJECT_DIR$/week6/Bss/Schema/etc/di.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week6/Bss/Schema/etc/events.xml" beforeDir="false" afterPath="$PROJECT_DIR$/week6/Bss/Schema/etc/events.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week6/Bss/Schema/etc/extension_attributes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/week6/Bss/Schema/etc/extension_attributes.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week6/Bss/Schema/etc/frontend/events.xml" beforeDir="false" afterPath="$PROJECT_DIR$/week6/Bss/Schema/etc/frontend/events.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week6/Bss/Schema/etc/frontend/routes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/week6/Bss/Schema/etc/frontend/routes.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week6/Bss/Schema/etc/module.xml" beforeDir="false" afterPath="$PROJECT_DIR$/week6/Bss/Schema/etc/module.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week6/Bss/Schema/registration.php" beforeDir="false" afterPath="$PROJECT_DIR$/week6/Bss/Schema/registration.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week6/Bss/Schema/view/adminhtml/layout/data_index_index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/week6/Bss/Schema/view/adminhtml/layout/data_index_index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week6/Bss/Schema/view/adminhtml/ui_component/data_index_listing.xml" beforeDir="false" afterPath="$PROJECT_DIR$/week6/Bss/Schema/view/adminhtml/ui_component/data_index_listing.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week6/Bss/Schema/view/adminhtml/ui_component/sales_order_grid.xml" beforeDir="false" afterPath="$PROJECT_DIR$/week6/Bss/Schema/view/adminhtml/ui_component/sales_order_grid.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week6/Bss/Schema/view/frontend/layout/schema_index_index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/week6/Bss/Schema/view/frontend/layout/schema_index_index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week6/Bss/Schema/view/frontend/layout/schema_index_intern.xml" beforeDir="false" afterPath="$PROJECT_DIR$/week6/Bss/Schema/view/frontend/layout/schema_index_intern.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week6/Bss/Schema/view/frontend/requirejs-config.js" beforeDir="false" afterPath="$PROJECT_DIR$/week6/Bss/Schema/view/frontend/requirejs-config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week6/Bss/Schema/view/frontend/templates/index.phtml" beforeDir="false" afterPath="$PROJECT_DIR$/week6/Bss/Schema/view/frontend/templates/index.phtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week6/Bss/Schema/view/frontend/templates/intern.phtml" beforeDir="false" afterPath="$PROJECT_DIR$/week6/Bss/Schema/view/frontend/templates/intern.phtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week6/Bss/Schema/view/frontend/web/js/action/set-shipping-information.js" beforeDir="false" afterPath="$PROJECT_DIR$/week6/Bss/Schema/view/frontend/web/js/action/set-shipping-information.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2BWJgiVyxCGzX1ANkDocbnqnzbl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/BSS/Desktop/TrainingTime/quangdv",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8f31cff2-9a93-4e20-a3ac-53c7496daf8a" name="Changes" comment="" />
+      <created>1657016049962</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1657016049962</updated>
+      <workItem from="1657016052575" duration="37000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
